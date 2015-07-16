@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Sandeep%20Silumula/Desktop/TheRoofingGuyz-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">The Roofing Guyz</string>
+    <string name="hello">Hello World, TheRoofingGuyzActivity</string>
+    <string name="info">About Us Description</string>
+    <string name="text1">This Application helps you find/arrange best Roofing arrangements. \n  1 - .....  \n  2 - .....</string>
+    <string name="text2">  3 - ...... \n  4 - .......</string>
+    <string name="text3">  5 - .........</string>
+    <string name="text4">  6 - .......</string>
+</resources>

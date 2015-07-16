@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TheRoofingGuyzActivity</string>
+    <string name="app_name">The Roofing Guyz</string>
+    <string name="text1">This Application helps you find/arrange best Roofing arrangements. \n  1 - .....  \n  2 - .....</string>
+    <string name="text2">  3 - ...... \n  4 - .......</string>
+    <string name="text3">  5 - .........</string>
+    <string name="text4">  6 - .......</string>
+    <string name="info">About Us Description</string>
+</resources>
